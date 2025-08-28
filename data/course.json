@@ -73,9 +73,10 @@
   "learning_resource_types": [
     "Lecture Videos",
     "Lecture Notes",
-    "Online Textbook",
+    "Open Textbooks",
     "Readings"
   ],
   "site_uid": "272f03ba-dc59-4be4-bee0-a566de0fde86",
-  "site_short_id": "2.79j-fall-2022"
+  "site_short_id": "2.79j-fall-2022",
+  "site_url_path": "courses/2-79j-biomaterials-tissue-interactions-fall-2022"
 }
