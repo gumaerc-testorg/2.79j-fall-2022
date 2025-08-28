@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/biomaterials-tissue-interactions/mit2_79j_f22.jpg
+file: /ol-ocw-studio-app/courses/2-79j-biomaterials-tissue-interactions-fall-2022/mit2_79j_f22.jpg
 file_size: 237616
 file_type: image/jpeg
 image_metadata:
